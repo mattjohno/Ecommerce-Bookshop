@@ -1,4 +1,4 @@
-# Ecommerce-Website
+# Ecommerce-Bookshop
 "HTML5, PHP, SQL, Foundation 6, JavaScript, JQuery Alphanum"
 
 ## Installation
